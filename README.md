@@ -79,7 +79,8 @@ guess-the-number/
 
 ## 📸 Screenshot
 
-<img src = "C:\Users\ANANYA\OneDrive\Pictures\Screenshots\Screenshot 2025-12-18 220214.png">
+<img width="1919" height="1003" alt="Screenshot 2025-12-18 220214" src="https://github.com/user-attachments/assets/f15e9cf5-ae00-4ad0-86e7-95cc084c9779" />
+
 
 ## 📄 License
 
